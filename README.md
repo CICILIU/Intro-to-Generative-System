@@ -7,6 +7,7 @@ This course is an introduction and overview of the history and practice of gener
 ## Week 1 (Class 1&Class 2): Paper Mechanisms & Generative Shapes
 
 ### Class 1(1/23)
+- Lecture Slide
 ### Class 2(1/25)
 
 ## Week 2 (Class 3&Class 4): Drawing & Algorithmic Drawing
